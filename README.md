@@ -231,4 +231,4 @@ This repository serves as the official landing page for Flowplayer. The software
 **Get the most recent version of Flowplayer today!**
 
 ---
-**Last updated:** 2026-09-08 22:15:44 UTC
+**Last updated:** 2026-09-09 00:57:24 UTC
